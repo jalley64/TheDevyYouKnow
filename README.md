@@ -178,7 +178,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 - The two teams with the best regular season records will be assigned to the top two seeds, and receive a first round bye.
 - The next four teams will be assigned their playoff seeding spot based on regular season record.
 - The seedings will reseed so that the number 1 seed gets the best possible semi-final matchup.
-
+- The 6th playoff spot will go to the team out of the 7 remaining teams with the highest points scored on the season.
 <br><br>
 
 ## __Section X - Scoring__ ##
@@ -208,9 +208,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 ## __Section XI - Leaving the League__ ##
 ### Leaving the League ###
-- In the event that you wish to leave the league, you must let us know a year in advance, no later than the time that the following year's payment is due (a month before the rookie draft). Here is an example. You join the first year and pay the 2019 and 2020 dues. You decide you want to leave the league. You must notify the commissioner that 2020 will be your last year by late March 2020 (when the 2021 payment is due). 
-- During that final year, you will not be permitted to trade any future draft picks, whether receiving or sending.
-- If you are not willing to play the final season, you forfeit the money that you have paid.
+- We require managers always be paid out a year in advance, if you wish to leave the league you forfeit that future payment in order to help fill your spot.
 - In drastic circumstances the commissioner may consider refunding the buy-in however these instances will be very rare and far from the expectation.
 
 ### Missing Teams ###
